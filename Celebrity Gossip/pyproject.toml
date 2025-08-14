@@ -1,0 +1,28 @@
+[project]
+name = "celebritygossip"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "disha",email = "postman.dml@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.15"
+dependencies = [
+    "streamlit (>=1.48.0,<2.0.0)",
+    "plotly (>=6.3.0,<7.0.0)",
+    "sentence-transformers (>=5.1.0,<6.0.0)",
+    "bs4 (>=0.0.2,<0.0.3)",
+    "feedparser (>=6.0.11,<7.0.0)",
+    "aiohttp (>=3.12.15,<4.0.0)",
+    "timedelta (>=2020.12.3,<2021.0.0)",
+    "hachoir (>=3.3.0,<4.0.0)",
+    "scrapy (>=2.13.3,<3.0.0)",
+    "selenium (>=4.35.0,<5.0.0)",
+    "faiss-cpu (>=1.12.0,<2.0.0)",
+    "numpy (>=2.3.2,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
