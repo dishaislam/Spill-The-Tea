@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 > *"Your AI bestie for all the celebrity tea! ☕💅✨"*
 
@@ -243,10 +242,6 @@ Contributions are welcome! Here's how:
 - Create a mobile-responsive version
 - Add voice interaction
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only. Respect TMZ's terms of service and copyright. The scraper should be used responsibly with appropriate rate limiting. Always verify information from official sources.
@@ -272,8 +267,8 @@ Have questions or suggestions? Feel free to:
 
 ### ☕ Happy Tea Spilling! 💅✨
 
-*Built with 💖 by [Your Name]*
+*Built with 💖 by [Sharmin Islam Disha]*
 
-[⭐ Star this repo](https://github.com/yourusername/spill-the-tea-chatbot) | [🐛 Report Bug](https://github.com/yourusername/spill-the-tea-chatbot/issues) | [💡 Request Feature](https://github.com/yourusername/spill-the-tea-chatbot/issues)
+[⭐ Star this repo](https://github.com/dishaislam/spill-the-tea-chatbot) | [🐛 Report Bug](https://github.com/dishaislam/spill-the-tea-chatbot/issues) | [💡 Request Feature](https://github.com/dishaislam/spill-the-tea-chatbot/issues)
 
 </div>
